@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+img{
+    border-radius: 50%;
+    width: 16px;
+}
+.imagem{
+    border-radius: 50%;
+    width: 180px;
+}
